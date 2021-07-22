@@ -4,14 +4,16 @@ http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1n
 #EXTINF:-1 tvg-id="Globo.br" tvg-name="Globo"  tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png"group-title="Abertos",Globo Nordeste [k]
 http://nr.maxptv.net:8080/127634/127634/34106?token=ShBZAkYKRw0TU1dVDwIPBwdQV1UFAl0EVgxQUAwAClsFCwJbU1RdBQEQSURLQ0QDBV9qX1MUXwUBCAJQGRZNS1RAbgpRQF8VAwJQVAoVGkQQW1hTFQxUAAcPC1AMAA8IHRBBClFAXxUABVdUDg8USkZXTUJSRAtXWWZWA0NdW10TCF8WWQ5JFV5cOgJdWlcIABAPFAcUSRRcSkJED1pNVF0eEwFcFhdWRVdHXBoEAF9dEBkUVFkQWEFLS0QPFnpqEx4TBk0WAFlCWwoIGg0UEhcQGRReRTpEUEpGFFBVVV1DEAtBBUBJFVxTHTlbWFgIAVFBX1hYFhQPGwNEGRZVV19bRQxHPRVeVRBfRA8EBFFGTw==
 
+#OFF#
 #EXTINF:-1 tvg-id="Sportv.br" tvg-name="SporTV"  tvg-logo="https://designconceitual.com.br/wp-content/uploads/2017/08/SPORTV.png" group-title="Esportes" ,SporTV 4
 https://playplusgoya-lh.akamaihd.net/i/pp_gna@377833/index_720_av-p.m3u8#
 
 #EXTINF:-1 tvg-id="recordtv.br" tvg-name="RecordTV"  tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png" group-title="Abertos" ,RecordTV
 https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_720_av-b.m3u8
 
+#OFF#
 #EXTINF:-1 tvg-id="RedeTV.br" tvg-name="RedeTV"  tvg-logo="http://i.imgur.com/jJBUZ6O.png"group-title="Abertos",RedeTV
-https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/playlist.m3u8
+https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/playlist.m3u8#
 
 #EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN Brasil"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Logo_espnbrasil.png"group-title="Esportes",ESPN Brasil
 http://rec2.distv.net:80/damaris/123456/144
