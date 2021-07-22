@@ -15,7 +15,7 @@ https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_720_av-b.m3u8
 https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN Brasil"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Logo_espnbrasil.png"group-title="Esportes",ESPN Brasil
-http://177.157.223.217:8000/play/a0hl
+http://rec2.distv.net:80/damaris/123456/144
 
 #EXTINF:-1 tvg-id="Foxsports.br" tvg-name="Fox Sports"  tvg-logo="https://logodownload.org/wp-content/uploads/2018/10/fox-sports-logo.png" group-title="Esportes" ,FOX Sports
 http://grtsvk.life:8080/leotb0001/888777555/71141
