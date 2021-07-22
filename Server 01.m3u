@@ -1,7 +1,4 @@
 #EXTINF:-1 tvg-id="Globorj.br" tvg-name="Globo RJ"  tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png"group-title="Abertos",Globo RJ
-http://grtsvk.life:8080/leotb0001/888777555/71132
-
-#EXTINF:-1 tvg-id="Globorj.br" tvg-name="Globo RJ"  tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png"group-title="Abertos",Globo RJ
 http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2359/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Globo.br" tvg-name="Globo"  tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png"group-title="Abertos",Globo Nordeste [k]
