@@ -1,4 +1,4 @@
-#EXTINF:-1 tvg-id="Globo.br" tvg-name="Globo SP"  tvg-logo="https://hospedario.com.br/wp-content/uploads/2020/03/WhatsApp-da-Globo-SP-2020.jpg" group-title="Entreterimento" ,Globo SP [b] 720p
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="Globo SP"  tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="Entreterimento" ,Globo SP [b] 720p
 https://live-fe-vm-ce-1.video.globo.com/d/nl/s/hls-globo-sp1/playlist.m3u8?h=0401626972942111520485116268865447497940798BNXpbLaz7xxRYb_tU9hR8w&k=html5&a=F&u=890eab77-9267-4b87-a16b-e0c99b18be60
 
 #EXTINF:-1 tvg-id="Globo.br" tvg-name="Globo RJ"  tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="Entreterimento" ,Globo RJ [b] 720p
