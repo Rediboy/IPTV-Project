@@ -1,0 +1,56 @@
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo SP"  tvg-logo="https://hospedario.com.br/wp-content/uploads/2020/03/WhatsApp-da-Globo-SP-2020.jpg" group-title="Entreterimento" ,Globo SP [b] 720p
+https://live-fe-vm-ce-1.video.globo.com/d/nl/s/hls-globo-sp1/playlist.m3u8?h=0401626972942111520485116268865447497940798BNXpbLaz7xxRYb_tU9hR8w&k=html5&a=F&u=890eab77-9267-4b87-a16b-e0c99b18be60
+
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="Globo RJ"  tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="Entreterimento" ,Globo RJ [b] 720p
+https://live-vm-ce-03.video.globo.com/d/e/nl/s/hls-globo-rj/playlist.m3u8?h=0401626980364488622882516268939668015578935kANrECaj5pG_tHHUrPpFsg&k=html5&a=F&u=890eab77-9267-4b87-a16b-e0c99b18be60
+
+#EXTINF:-1 tvg-id="canaloff.br" tvg-name="Canal Off"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Canal_Off_logo.svg/700px-Canal_Off_logo.svg.png" group-title="Entreterimento" ,Canal Off [b] 1080p
+https://live-cm-al-10-37.video.globo.com/d/s/hls-off24ha/playlist.m3u8?h=0401626981011125887313616268946134084476855jxs56QvdjpEazEAhDGgVNQ&k=html5&a=F&u=890eab77-9267-4b87-a16b-e0c99b18be60
+
+#EXTINF:-1 tvg-id="multishow.br" tvg-name="Multishow"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Multishow_logo_red_2012.svg/800px-Multishow_logo_red_2012.svg.png" group-title="Entreterimento" ,Multishow [b] 1080p
+https://live-cm-aq-19-39.video.globo.com/h/0411626997112558071962616269107133028809857PN3mxd7z2v-sKA4BWt0-sg/k/html5/a/F/u/BR~890eab77-9267-4b87-a16b-e0c99b18be60/nu/msw24ha/msw24ha-audio_1=96000-video=3442944.m3u8
+
+#EXTINF:-1 tvg-id="bis.br" tvg-name="Bis"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Logo_of_Bis.svg/675px-Logo_of_Bis.svg.png" group-title="Entreterimento" ,Bis [b] 1080p
+https://live-cm-aq-21-39.video.globo.com/d/s/hls-bis24ha/playlist.m3u8?h=0411626997480186835029016269110811053538945n5-Ng2IfcITyvzPqpiLmoQ&k=html5&a=F&u=BR~890eab77-9267-4b87-a16b-e0c99b18be60
+
+#EXTINF:-1 tvg-id="gnt.br" tvg-name="GNT"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/GNT_logo-roxo.svg/1920px-GNT_logo-roxo.svg.png" group-title="Entreterimento" ,GNT [b] 1080p
+https://live-cm-ah-14-36.video.globo.com/d/s/hls-gnt24ha/playlist.m3u8?h=0411626997726159779958716269113265579799062C_jmnTWrc3R1UkFAQuaSCw&k=html5&a=F&u=BR~890eab77-9267-4b87-a16b-e0c99b18be60
+
+#EXTINF:-1 tvg-id="globonews.br" tvg-name="GloboNews"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/GloboNews_logo.svg/512px-GloboNews_logo.svg.png" group-title="Entreterimento" ,GloboNews [b] 720p
+https://live-cm-ah-14-36.video.globo.com/d/s/hls-gnews24ha/playlist.m3u8?h=04016269979681261776367162691156813871940975OF4V_eSTFywLdVSY8z50g&k=html5&a=F&u=890eab77-9267-4b87-a16b-e0c99b18be60
+
+#EXTINF:-1 tvg-id="Viva.br" tvg-name="VIVA"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Canal_Viva_2018_wordmark.svg/1280px-Canal_Viva_2018_wordmark.svg.png" group-title="Entreterimento" ,VIVA [b] 1080p
+https://live-cm-ah-14-37.video.globo.com/h/0411626998165108978491416269117662718320889-q6fBWh_grZtsyW9ziIlGQ/k/html5/a/F/u/BR~890eab77-9267-4b87-a16b-e0c99b18be60/nu/viva24ha/viva24ha-audio_1=96000-video=3442944.m3u8
+
+#EXTINF:-1 tvg-id="maisnatela.br" tvg-name="MAIS na Tela"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Mais_na_Tela_%282020%29.png" group-title="Entreterimento" ,MAIS na Tela [b] 1080p
+https://live-cm-ah-13-37.video.globo.com/d/s/hls-maisgsat24ha/playlist.m3u8?h=04116269985495662703611162691214960422763474wE9UtRFjepkXzc7fhoj5w&k=html5&a=F&u=BR~890eab77-9267-4b87-a16b-e0c99b18be60
+
+#EXTINF:-1 tvg-id="canalbrasil.br" tvg-name="Canal Brasil"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/CanalBrasil_logos_700px_0-03.png" group-title="Entreterimento" ,Canal Brasil [b] 1080p
+https://live-cm-al-10-38.video.globo.com/d/s/hls-bra24ha/playlist.m3u8?h=0411626998683117522249016269122834653504122t7eR1pBYYT_j0AuZN7PCLw&k=html5&a=F&u=BR~890eab77-9267-4b87-a16b-e0c99b18be60
+
+#EXTINF:-1 tvg-id="canalfutura.br" tvg-name="Futura"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Canal_Futura.png/606px-Canal_Futura.png" group-title="Entreterimento" ,Futura [b] 1080p
+https://live-cm-ah-10-38.video.globo.com/d/s/hls-pfc2/playlist.m3u8?h=0401627000209107641532416269138101045577928StwEYFIkmjsy33Ym2sMu-A&k=html5&a=F&u=890eab77-9267-4b87-a16b-e0c99b18be60
+
+
+
+#EXTINF:-1 tvg-id="combate.br" tvg-name="COMBATE"  tvg-logo="https://logodownload.org/wp-content/uploads/2018/05/canal-combate-logo-2.png" group-title="Entreterimento" ,COMBATE [b] 1080p
+https://live-cm-al-10-38.video.globo.com/d/s/hls-cbt24ha/playlist.m3u8?h=0411626998875458476105516269124766149510111vVe_tZnQ7Ulr4tIEQxz5FA&k=html5&a=F&u=BR~890eab77-9267-4b87-a16b-e0c99b18be60
+
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORTV"  tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-4.png" group-title="Entreterimento" ,SPORTV [b] 1080p
+https://live-cm-al-14-36.video.globo.com/d/s/hls-spo124ha/playlist.m3u8?h=0411626999012942467235316269126135125193088mClCT4Pw6_0nCKOft1FyRw&k=html5&a=F&u=BR~890eab77-9267-4b87-a16b-e0c99b18be60
+
+#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SPORTV 2"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/SporTV_2_2017_logo.svg/664px-SporTV_2_2017_logo.svg.png" group-title="Entreterimento" ,SPORTV 2 [b] 1080p
+https://live-cm-aq-19-39.video.globo.com/d/s/hls-spo224ha/playlist.m3u8?h=0411626999457170211073016269130577953427772r1nzjMt_qTjiyd08G9opIQ&k=html5&a=F&u=BR~890eab77-9267-4b87-a16b-e0c99b18be60
+
+#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SPORTV 3"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/SporTV_3_2017_logo.svg/703px-SporTV_3_2017_logo.svg.png" group-title="Entreterimento" ,SPORTV 3 [b] 1080p
+https://live-cm-aq-21-39.video.globo.com/d/s/hls-spo324ha/playlist.m3u8?h=0411626999481161217360516269130820462280447hfyDRltjWQ-T4OC4ltTQQw&k=html5&a=F&u=BR~890eab77-9267-4b87-a16b-e0c99b18be60
+
+#EXTINF:-1 tvg-id="sportv4.br" tvg-name="SPORTV 4 - Olímpiadas Tokyo 2020"  tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/f/f9/2020_Summer_Olympics_new_logo.svg/800px-2020_Summer_Olympics_new_logo.svg.png" group-title="Entreterimento" ,SPORTV 4 [b] 1080p
+https://live-cm-ah-13-38.video.globo.com/d/s/hls-spo424ha/playlist.m3u8?h=0411626999543661605712216269131442422428975OmjEk98GLEt1Ay_6nLZU4g&k=html5&a=F&u=BR~890eab77-9267-4b87-a16b-e0c99b18be60
+
+#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="PREMIERE"  tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a2/Logo_Premiere_FC_2018.png" group-title="Esporte" ,PREMIERE [b] 1080p
+https://live-cm-al-10-38.video.globo.com/d/s/hls-pfc2/playlist.m3u8?h=0401626999765900426823216269133669757718012S0leGq59as7iu5trzKZYSQ&k=html5&a=F&u=890eab77-9267-4b87-a16b-e0c99b18be60
+
+#EXTINF:-1 tvg-id="premiere2.br" tvg-name="PREMIERE 2"  tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a2/Logo_Premiere_FC_2018.png" group-title="Esporte" ,PREMIERE [b] 1080p
+https://live-cm-al-10-38.video.globo.com/d/s/hls-pfc2/playlist.m3u8?h=0401626999765900426823216269133669757718012S0leGq59as7iu5trzKZYSQ&k=html5&a=F&u=890eab77-9267-4b87-a16b-e0c99b18be60
+
