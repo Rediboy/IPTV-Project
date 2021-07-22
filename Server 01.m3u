@@ -1,0 +1,24 @@
+
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="Globo RJ"  tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png"group-title="Abertos",Globo RJ
+http://grtsvk.life:8080/leotb0001/888777555/71132
+
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="Globo RJ"  tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png"group-title="Abertos",Globo RJ
+http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2359/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SporTV"  tvg-logo="https://designconceitual.com.br/wp-content/uploads/2017/08/SPORTV.png" group-title="Esportes" ,SporTV 4
+https://playplusgoya-lh.akamaihd.net/i/pp_gna@377833/index_720_av-p.m3u8
+
+#EXTINF:-1 tvg-id="recordtv.br" tvg-name="RecordTV"  tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png" group-title="Abertos" ,RecordTV
+https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_720_av-b.m3u8
+
+#EXTINF:-1 tvg-id="RedeTV.br" tvg-name="RedeTV"  tvg-logo="http://i.imgur.com/jJBUZ6O.png"group-title="Abertos",RedeTV
+https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN Brasil"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Logo_espnbrasil.png"group-title="Esportes",ESPN Brasil
+http://177.157.223.217:8000/play/a0hl
+
+#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="Fox Sports"  tvg-logo="https://logodownload.org/wp-content/uploads/2018/10/fox-sports-logo.png" group-title="Esportes" ,FOX Sports
+http://grtsvk.life:8080/leotb0001/888777555/71141
+
+#EXTINF:-1 tvg-id="tooncast.br" tvg-name="Tooncast"  tvg-logo="https://logodownload.org/wp-content/uploads/2018/10/fox-sports-logo.png" group-title="Esportes" ,Retro TV
+https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8
